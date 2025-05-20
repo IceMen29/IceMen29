@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java programming and 3D design
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me telegram: @artemboskin
-- ⚡ My stack: - Java, Hibernate, Java FX, Kafka, spring boot, redis.
+- ⚡ My stack: - Java, Java FX
 - Work experience
 
 <!---
